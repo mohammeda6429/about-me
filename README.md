@@ -19,3 +19,4 @@ _Schedule_
 7. Software Engineering
 8. Spanish
 
+Reviewed by Shi Wei
